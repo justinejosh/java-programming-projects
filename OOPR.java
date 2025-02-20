@@ -1,13 +1,3 @@
-/* 
-    GROUP MEMBERS:
-    Batain, Harvey C.
-    Bulawan, Chadwick Jan R.
-    Larona, Justine Josh G.
-    Ramirez, John Wayne D.
-    Tulali, Sean Lestat T.
-    Valenzuela, Ralph Denielle C.
- */
-
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
