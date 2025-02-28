@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class OOPR {
 
     public static void main(String[] args) {
-		DecimalFormat df = new DecimalFormat("0.00");
+	DecimalFormat df = new DecimalFormat("0.00");
         Scanner scanner = new Scanner(System.in);
 
 		int choice;
